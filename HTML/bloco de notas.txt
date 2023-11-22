@@ -1,0 +1,17 @@
+108 horas
+
+2 projeto
+1 estatico --> não usa banco de dados da muito traalho para mudar as coisas
+1 site dinemico --> usa banco de dados - CMS WordPRESS
+
+Responsivo =  se ajusta em todas as telas
+
+Site institucional e um portifolio
+
+HTML
+
+<b> quebra de linha
+
+https://www.w3schools.com/
+
+https://www.maujor.com/
