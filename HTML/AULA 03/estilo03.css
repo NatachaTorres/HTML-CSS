@@ -1,0 +1,61 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: aliceblue;
+}
+
+ol .set{
+    list-style-type: upper-roman;
+}
+
+ol .segundo{
+    list-style-type: upper-alpha;
+}
+
+ol .terceiro{
+    list-style-type: lower-greek;
+}
+
+ol .quarto{
+    list-style-type: georgian;
+}
+
+ol .quinto{
+    list-style-type: upper-latin;
+}
+
+ol .sexto{
+    list-style-type: hebrew;
+}
+
+ol .sete{
+    list-style-type: armenian;
+}
+
+ol .oito{
+    list-style-type: georgian;
+}
+
+ol .dez{
+    list-style-type: lower-roman;
+}
+
+ul .um{
+    list-style-type: none;
+}
+
+ul .dois{
+    list-style-type: circle;
+}
+
+ul .tres{
+    list-style-type: square;
+}
+
+ul .foto1{
+    list-style-image: url("img/seta\ branca\ \(1\).png");
+}
+
+ul .foto2{
+    list-style-image: url("img/seta\ branca\ 2\ \(2\).png")
+}
