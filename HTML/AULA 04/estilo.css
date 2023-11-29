@@ -13,5 +13,20 @@
 }
 
 .margem2{
-    margin-left: 450px;
+    margin-left: 480px;
 }
+
+.test:hover{
+    transition: transform .2s;
+    transform:scale(1.1);
+}
+
+.test2{
+    transition: transform .2s;
+}
+
+.mar{
+    margin: 65px;
+}
+
+
