@@ -1,0 +1,31 @@
+*{
+    font-family: Arial;
+}
+
+body{
+    margin: 0px;
+}
+
+#topo{
+    width: 1300px;
+    height: 125px;
+    margin: auto;
+    background-color: rgb(233, 132, 132);
+    padding-top: 25px;
+}
+
+#menu{
+    width: 1300px;
+    height: 70px;
+    margin: auto;
+    background-color: rgb(233, 146, 146);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#logo{
+    width: 200px;
+    height: 100px;
+    margin: auto;
+    background-color: rgb(231, 37, 37);    
+}
