@@ -1,0 +1,48 @@
+* {
+    font-family: Arial;
+    margin: auto;
+}
+
+body{
+    margin: 0px;
+}
+
+#tota{
+    margin: auto;
+    width: 1300;
+}
+
+#topo{
+    height: 140px;
+    background-color: rgb(0, 199, 199);
+    padding-top: 10px;
+    
+}
+
+#banner{
+    height: 400px;
+    background-color: rgb(126, 219, 118);
+}
+
+#conteudo{
+    height: 600px;
+    background-color: rgb(209, 219, 118);
+}
+
+#mapa{
+    height: 300px;
+    background-color: rgb(219, 175, 118);
+}
+
+#rodape{
+    height: 180px;
+    background-color: rgb(219, 125, 118);
+}
+
+#logo{
+    width: 200px;
+    height: 130px;
+    background-color: rgb(118, 150, 219);
+    margin-left: 10px;    
+    float: left;
+}
