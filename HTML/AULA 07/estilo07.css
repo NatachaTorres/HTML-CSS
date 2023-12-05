@@ -1,18 +1,69 @@
 *{
     font-family: arial;
+    margin: auto;
 }
 
 body{
     margin: 0px;
 }
 
-#tota{
+#total{
     margin: auto;
-    width: 1300;
+    width: 1300px;
 }
 
 #topo{
-    height: 140px;
-    background-color: rgb(199, 0, 0);
-    padding-top: 10px;
+    height: 100px;
+    background-color: rgb(199, 0, 0);    
 }
+
+#foto{
+    height: 350px;
+    background-color: rgb(216, 60, 60);
+    
+    
+}
+
+#tiposangue{
+    height: 50px;
+    background-color: rgb(241, 92, 92);
+    
+}
+
+#conteudo{
+    height: 408px;
+    background-color: rgb(241, 127, 127);
+    
+}
+
+#rodape{
+    height: 140px;
+    background-color: rgb(241, 169, 169);
+    padding-top: 10px;
+    
+}
+
+#pe01{
+    width: 364px;
+    height: 130px;
+    background-color: rgb(118, 150, 219);
+    margin-left: 10px;    
+    float: left;
+}
+
+#pe02{
+    width: 532px;
+    height: 130px;
+    background-color: rgb(118, 150, 219);
+    margin-left: 10px;    
+    float: left;
+}
+
+#pe03{
+    width: 364px;
+    height: 130px;
+    background-color: rgb(118, 150, 219);
+    margin-left: 10px;    
+    float: left;
+}
+
