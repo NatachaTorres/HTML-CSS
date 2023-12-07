@@ -1,3 +1,100 @@
 *{
     font-family: arial;
 }
+
+body{
+    margin: 0px;
+}
+
+.divisao{
+    width: 1300px;
+    height: 700px;
+    /* background-color: aquamarine; */
+    
+}
+
+
+#total{
+    margin: auto;
+    width: 1300px;
+}
+
+
+#cabesalho{
+    height: 92px;
+    /* background-color: rgb(211, 114, 114); */
+    border-color: black;
+    border-style: double;
+    border-width: medium;
+}
+.iamg{
+    height: 700px ;
+    width: 100%;
+}
+
+#topo{    
+    width: 100%;
+    height: 700px;
+    background-image: url("img/gif.gif");
+    background-size: cover;
+    /* background-color: rgb(199, 0, 0); */
+}
+
+#topo2{        
+    height: 573px;
+    background-color: coral;
+    margin: auto;
+    position: relative;    
+}
+
+#elemento01{
+    width: 822px;
+    height: 72px;
+    background-color: rgb(255, 86, 80);
+}
+
+#topo03{
+    height: 250px;
+    background-color: rgb(200, 80, 255);
+    margin: auto;
+    position: relative;
+}
+
+#topo04{
+    height: 800px;
+    background-color: rgb(80, 255, 109);
+    margin: auto;
+    position: relative;
+}
+
+#rodape{
+    height: 253px;
+    background-color: rgb(255, 80, 246);
+    margin: auto;
+    position: relative;
+    padding-top: 41px;
+    padding-bottom: 41px;
+}
+
+#rodape02{
+    width: 364px;
+    height: 253px;
+    background-color: rgb(118, 150, 219);
+    float: left;    
+    margin-left: 29px;
+}
+
+#rodape03{
+    width: 364px;
+    height: 253px;
+    background-color: rgb(118, 150, 219);
+    float: left;
+    margin-left: 73px;
+}
+#rodape04{
+    width: 364px;
+    height: 253px;
+    background-color: rgb(118, 150, 219);       
+    float: left;
+    margin-left: 73px;
+}
