@@ -1,38 +1,39 @@
-*{
+* {
     font-family: arial;
 }
 
-body{
+body {
     margin: 0px;
 }
 
-.divisao{
+.divisao {
     width: 1300px;
     height: 700px;
     /* background-color: aquamarine; */
-    
+
 }
 
 
-#total{
+#total {
     margin: auto;
     width: 1300px;
 }
 
 
-#cabesalho{
+#cabecalho {
     height: 92px;
     /* background-color: rgb(211, 114, 114); */
     border-color: black;
     border-style: double;
     border-width: medium;
 }
-.iamg{
-    height: 700px ;
+
+.iamg {
+    height: 700px;
     width: 100%;
 }
 
-#topo{    
+#topo {
     width: 100%;
     height: 700px;
     background-image: url("img/gif.gif");
@@ -40,34 +41,97 @@ body{
     /* background-color: rgb(199, 0, 0); */
 }
 
-#topo2{        
+#topo2 {
     height: 573px;
     background-color: coral;
     margin: auto;
-    position: relative;    
+    position: relative;
+    
 }
 
-#elemento01{
-    width: 822px;
+
+#elemento01 {
+    width: 714px;
     height: 72px;
-    background-color: rgb(255, 86, 80);
+    background-color: rgb(255, 86, 80); 
+    top: 106px;
+    left: 74px;    
+    /* margin-left: 74px; */
+    position: absolute;
+    
 }
 
-#topo03{
+#elemento02{
+    width: 383px;
+    height: 255px;
+    border-top-right-radius: 90px;
+    border-bottom-left-radius: 90px;
+    position: absolute;
+    /* border: 1px solid ; --contorno da borda */
+    background-color: antiquewhite;
+    top: 74px;
+    right: 74px ;
+}
+
+#elemento03{
+    width: 383px;
+    height: 255px;
+    border-top-right-radius: 90px;
+    border-bottom-left-radius: 90px;
+    position: absolute;
+    /* border: 1px solid ; --contorno da borda */
+    background-color: antiquewhite;
+    bottom: 74px ;
+    left: 74px;
+    
+}
+
+#elemento04{
+    width: 706px;
+    height: 156px;
+    background-color: rgb(255, 86, 80); 
+    bottom: 64px ;
+    right: 74px;       
+    /* margin-left: 74px; */
+    position: absolute;
+}
+
+#topo03 {
     height: 250px;
     background-color: rgb(200, 80, 255);
     margin: auto;
     position: relative;
 }
 
-#topo04{
-    height: 800px;
+#topo04 {
+    height: 724px;
     background-color: rgb(80, 255, 109);
     margin: auto;
     position: relative;
 }
+#elemento05{
+    width: 545px;
+    height: 426px;
+    background-color: rgb(204, 137, 135); 
+    top: 149px;
+    left: 158px;
+    /* margin-left: 74px; */
+    position: absolute;
+    z-index: 100;
+}
 
-#rodape{
+#elemento06{
+    width: 508px;
+    height: 514px;
+    background-color: rgb(255, 86, 80); 
+    top: 105px;
+    right: 158px; 
+    /* margin-left: 74px; */
+    position: absolute;
+    
+}
+
+#rodape {
     height: 253px;
     background-color: rgb(255, 80, 246);
     margin: auto;
@@ -76,25 +140,26 @@ body{
     padding-bottom: 41px;
 }
 
-#rodape02{
+#rodape02 {
     width: 364px;
     height: 253px;
     background-color: rgb(118, 150, 219);
-    float: left;    
+    float: left;
     margin-left: 29px;
 }
 
-#rodape03{
-    width: 364px;
+#rodape03 {
+    width: 375px;
     height: 253px;
     background-color: rgb(118, 150, 219);
     float: left;
     margin-left: 73px;
 }
-#rodape04{
+
+#rodape04 {
     width: 364px;
     height: 253px;
-    background-color: rgb(118, 150, 219);       
+    background-color: rgb(118, 150, 219);
     float: left;
     margin-left: 73px;
 }
