@@ -1,3 +1,7 @@
-#alinhamento{
-    
+.altura{
+    height: 200px;
+}
+
+.margin{
+    margin-left: 10px;
 }
