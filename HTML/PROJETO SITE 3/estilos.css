@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.altura{
+    height: 50px;
+}
+
+.altura02{
+    height: 300px;
+}
+
+.altura03{
+    height: 700px;
+}
+.cor{
+    background-color: #FF005C;
+}
+
+.COR{
+    color: #FF005C;
+}
+
+
+
+.titulos{
+    color: rgb(196, 196, 196);
+}
+
+
+.textos{
+    color: rgb(219, 219, 219);
+    
+}
+
+b{
+    color: #FF005C;
+    /* font-size: 14pt; */
+    
+}
+
+.caixa{
+    height: 150px;
+    border-radius: 10px;
+    background-color: rgba(0, 255, 255, 0);
+    
+    margin-bottom: 30px;
+    word-wrap: break-word;
+    
+}
+
+#banner{
+    
+}
+
+.texto{
+    
+}
+
+#coiso{
+    
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    background-color: rgb(0, 255, 64);
+    border-radius: 100%;
+    position: fixed;
+    right: 50px;
+    bottom: 5%;
+    background-image: url(img/whatsapp.png) ;
+    background-position: center;
+    background-size: cover;
+}
+
+.dark{
+    background-color: rgba(31, 31, 31, 0.404);
+}
+

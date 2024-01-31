@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(41, 41, 41);
+}
+
+*{
+    color: rgb(255, 255, 255);
+}
+
+
+
+a{
+    color: white;
+}
+
+p{
+    text-align: center;
+    
+}
+
+h1{
+    color: #ff0062;
+}
+
+.caixa{
+    height: 200px;
+    border-radius: 20px;
+    background-color: rgba(0, 255, 255, 0);
+    box-shadow: 2px 2px 10px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 30px;
+    word-wrap: break-word;
+    
+}
+
+b{
+    color: rgb(255, 0, 98);
+    font-size: 14pt;
+}
