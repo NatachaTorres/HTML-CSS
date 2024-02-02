@@ -45,7 +45,7 @@ canvas{
 /* ---- particles.js container ---- */
 
 #particles-js{
-  width: 100%;
+  width: 100%px;
   height: 100%;
   background-color: #000000;
   background-image: url('');
@@ -54,7 +54,29 @@ canvas{
   background-repeat: no-repeat;
 }
 
-/* ---- começo particula ---- */
+/* ---- fim particula ---- */
+
+b{
+  color: #FF005C;
+  /* font-size: 14pt; */
+  
+}
+
+
+/* ---- altura navbar ---- */
+
+#gifposition{
+  top: 50%;
+  left: 50%;
+  margin-top: -100px ;
+  margin-left: -100px;
+  border-radius: 50px;
+}
+
+/* ---- fim altura navbar ---- */
+
+
+
 
 
 /* imagem que mexe */
@@ -62,7 +84,7 @@ canvas{
   width: 260px ;
   height: 460px;
   background-color: aquamarine;
-  background-image: ;
+  background-image: #;
   background-size: cover;
   background-position: 100% 0% ;
   border-radius: 20px;
@@ -99,3 +121,4 @@ canvas{
   opacity: 1;
 }
 /* fim da imagem que mexe */
+
