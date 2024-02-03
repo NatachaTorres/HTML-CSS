@@ -84,7 +84,7 @@ b{
   width: 260px ;
   height: 460px;
   background-color: aquamarine;
-  background-image: #;
+  /* background-image: #; */
   background-size: cover;
   background-position: 100% 0% ;
   border-radius: 20px;
@@ -121,4 +121,14 @@ b{
   opacity: 1;
 }
 /* fim da imagem que mexe */
+
+/* colocar margem no container do gif */
+
+.gif{
+  padding: 300px;
+}
+
+/* colocar margem no container do gif */
+
+
 
