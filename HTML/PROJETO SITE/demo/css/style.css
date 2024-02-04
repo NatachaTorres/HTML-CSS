@@ -130,5 +130,24 @@ b{
 
 /* colocar margem no container do gif */
 
+#rowmargin {
+  margin-left: -100px;
+  width: 2000px;
+}
 
+#largurafoto{
+  width: 1366px;
+}
 
+.mid-img{
+  margin-left: -100px;
+  width: 100%;
+}
+
+.ponto{
+  margin-left: 170px;
+  padding: 50px;
+  font-size: 20pt;
+  width: 200px;
+  color: #91A3AD;
+}
