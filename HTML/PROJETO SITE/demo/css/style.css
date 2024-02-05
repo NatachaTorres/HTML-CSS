@@ -81,10 +81,10 @@ b{
 
 /* imagem que mexe */
 .rolante{
-  width: 260px ;
-  height: 460px;
+  width: 400px ;
+  height: 600px;
   background-color: aquamarine;
-  /* background-image: #; */
+
   background-size: cover;
   background-position: 100% 0% ;
   border-radius: 20px;
@@ -124,9 +124,6 @@ b{
 
 /* colocar margem no container do gif */
 
-.gif{
-  padding: 300px;
-}
 
 /* colocar margem no container do gif */
 
@@ -150,4 +147,16 @@ b{
   font-size: 20pt;
   width: 200px;
   color: #91A3AD;
+}
+
+.site1{
+  background-image: url(img/caixa1.png);
+}
+
+.site2{
+  background-image: url(img/caixa2.png);
+}
+
+.site3{
+  background-image: url(img/caixa3.png);
 }
